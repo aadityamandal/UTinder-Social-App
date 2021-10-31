@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">utinder_app</string>
+    <string name="generic_greeting">Good Morning, King</string>
+    <string name="task_hint">Add another task…</string>
+    <string name="todo_txt">Pending Tasks</string>
+
+</resources>
